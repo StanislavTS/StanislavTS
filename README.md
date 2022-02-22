@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StanislavTS
 - 👀 I’m interested in RPA (UiPath)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently working on traiding UiPath robot for Tinkoff Invest API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ztestsx@gmail.com
 
